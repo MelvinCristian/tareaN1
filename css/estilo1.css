@@ -1,0 +1,54 @@
+body
+{
+    background-color: chartreuse;
+}
+#general
+{
+    width: 800px;
+    height: 700px;
+    border-radius: 50%;
+    background-color: rgb(237, 165, 31);
+    margin: auto;
+    margin-top: 15px;
+}
+#ojos
+{
+    display: flex;
+}
+#caja1
+{
+    margin-top: 70px;
+    margin-left: 150px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(12, 157, 209);
+}
+#caja2
+{
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    background-color: rgb(12, 157, 209);
+}
+#caja3
+{
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 350px;
+    border-radius: 100px;
+    width: 80px;
+    height: 150px;
+    background-color: rgb(240, 11, 11);
+}
+#caja4
+{
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 150px;
+    width: 400px;
+    height: 150px;
+    background-color: rgb(227, 247, 10);
+}
